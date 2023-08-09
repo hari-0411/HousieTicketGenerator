@@ -13,8 +13,13 @@ This is a Ruby program that generates random Housie tickets for the UK and other
 
 
 3. **Run the Ruby Script:** Execute the Ruby script to generate and print a random Housie ticket.Use the following command to run in terminal:
+    first method:
+        "ruby housie_ticket.rb"
+    
+    second method: 
+        "ruby ticket_generator.rb"
 
-    "ruby housie_ticket.rb"
+
 
 
 4. **Generated Ticket:** The script will output a Housie ticket with random numbers and possibly empty spots.
